@@ -1,3 +1,2 @@
 # -
-use ai and pelican to write a web
-
+30秒使用ai创建一个博客
