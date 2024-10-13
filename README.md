@@ -1,2 +1,3 @@
 # -
-一个使用文本构建并且执行操作的网站
+use ai and pelican to write a web
+
